@@ -1,2 +1,4 @@
 this file2 belongs to feature branch
 this file is udated in branch release
+
+the file2 is updated in hot fix
